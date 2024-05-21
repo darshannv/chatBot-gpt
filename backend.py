@@ -3,7 +3,7 @@ import time
 
 class Chatbot:
     def __init__(self):
-        openai.api_key = "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"
+        openai.api_key = "____ your Key___"
 
     def get_response(self, user_input):
         try:
